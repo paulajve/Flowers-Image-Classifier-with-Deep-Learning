@@ -3,8 +3,8 @@
 # Create Your Own Image Classifier
 
 The project has two main objectives:
-- The first part of the project, you have to work through a Jupyter notebook to implement an image classifier with PyTorch.
-- Convert the deep neural network in an application that others can use using Python scripts that run from the command line.
+- The first part of the project, have to work through a Jupyter notebook to implement an image classifier with PyTorch.
+- Then, convert the deep neural network in an application that others can use using Python scripts that run from the command line.
 
 ## Part 1 - Developing an Image Classifier with Deep Learning
 In this first part of the project, you'll work through a Jupyter notebook to implement an image classifier with PyTorch. We'll provide some tips and guide you, but for the most part the code is left up to you. As you work through this project, please refer to the [rubric](https://review.udacity.com/#!/rubrics/1663/view) for guidance towards a successful submission.
